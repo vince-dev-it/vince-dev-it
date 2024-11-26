@@ -1,4 +1,6 @@
-## Hi there, I'm Jan Vincent 👋
+## Jan Vincent Neal R. Toledo 👋
+
+**`Full Stack Web Developer (UI/UX Designer/Project Management/System Documentation)`**
 
 <!--
 **vince-dev-it/vince-dev-it** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +16,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+I am a Full Stack Web Developer / IT Software Associate on my first job. I have a passion in coding and developing Web Systems
+that aims to help the company in the future. All projects that I have built has a common goal for implementing automations..
+
+<p align="left">
+  
+</p>
