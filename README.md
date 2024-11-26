@@ -8,17 +8,16 @@ that aims to help the company in the future. All projects that I have built has 
 ## 🔧 Technologies & Tools
 Here are the main technologies I use:
 
-- **Languages**: Python, JavaScript, Java, C++, HTML, CSS
-- **Frameworks**: React, Angular, Django, Flask, Node.js
-- **Databases**: MySQL, PostgreSQL, MongoDB
-- **Tools**: Git, Docker, VS Code, GitHub Actions, Jenkins
-- **Cloud**: AWS, Azure, Firebase
-- **Others**: REST APIs, GraphQL, Kubernetes
+- **Languages**: JavaScript, Java, C#, PHP, HTML, CSS
+- **Frameworks**: React, Laravel
+- **Databases**: MySQL, PostgreSQL
+- **Tools**: Git, Docker, VS Code
+- **Cloud**: AWS, Firebase
 
 ## 🌱 What I'm currently learning
 
-- Deep Learning (with TensorFlow and PyTorch)
-- Cloud computing & DevOps practices
+- Laravel Echo / Reverb
+- Cybersecurity / Ethical Hacking
 - Advanced React features (hooks, context API)
 
 ## 📫 How to reach me
