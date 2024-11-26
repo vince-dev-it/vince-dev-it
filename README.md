@@ -1,4 +1,4 @@
-## Jan Vincent Neal R. Toledo 👋
+![image](https://github.com/user-attachments/assets/e15317a1-6365-41c6-ac8d-4d8516d71cfa)## Jan Vincent Neal R. Toledo 👋
 
 **`Full Stack Web Developer (UI/UX Designer/Project Management/System Documentation)`**
 
@@ -8,7 +8,7 @@ that aims to help the company in the future. All projects that I have built has 
 ## 🔧 Technologies & Tools
 Here are the main technologies I use:
 
-- **Languages**: JavaScript, Java, C#, PHP, HTML, CSS
+- **Languages**: JavaScript, Java, C#, PHP, HTML, CSS <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" width="30px" />
 - **Frameworks**: React, Laravel
 - **Databases**: MySQL, PostgreSQL
 - **Tools**: Git, Docker, VS Code
