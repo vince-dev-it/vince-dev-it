@@ -8,7 +8,7 @@ that aims to help the company in the future. All projects that I have built has 
 ## 🔧 Technologies & Tools
 Here are the main technologies I use:
 
-- **Languages**: JavaScript, Java, C#, PHP, HTML, CSS <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" width="30px" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="30px" />
+- **Languages**: C#, PHP, HTML, CSS <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" width="30px" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="30px" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c#/c#-plain.svg" width="30px" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg" width="30px" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html/html-plain.svg" width="30px" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css/css-plain.svg" width="30px" /> 
 - **Frameworks**: React, Laravel
 - **Databases**: MySQL, PostgreSQL
 - **Tools**: Git, Docker, VS Code
