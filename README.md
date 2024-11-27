@@ -1,4 +1,4 @@
-![mysql-svgrepo-com (1)](https://github.com/user-attachments/assets/9519073f-ea99-4971-ba23-db07ce662d90)## Jan Vincent Neal R. Toledo 👋
+## Jan Vincent Neal R. Toledo 👋
 
 **`Full Stack Web Developer (UI/UX Designer/Project Management/System Documentation)`**
 
